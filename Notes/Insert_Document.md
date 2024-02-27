@@ -21,4 +21,6 @@ Example : db.users.insertMany([
 { name: "Bob", age: 35, email: "bob@example.com" }
 ])
 
-**Note** : To display data we use **db.<colection_name>.find()**
+**Note** : To display data we use
+
+**db.<colection_name>.find()**
